@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title: BackSmith for Wordpress
 # Author: https://github.com/love-decay
-# Short description: Backup mysql and site directory to google drive, include email and sms confirmation.
+# Short description: Backup mysql and site directory to google drive, includes email and sms confirmation.
 # License: MIT License.
 # Version: 0.1
 #==============================================================================
